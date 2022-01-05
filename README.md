@@ -100,10 +100,10 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant&show_icons=true&locale=en&layout=compact" alt="Prashant" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantahire488&show_icons=true&locale=en&layout=compact" alt="Prashant" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant&show_icons=true&locale=en" alt="Prashant" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantahire488&show_icons=true&locale=en" alt="Prashant" /></p>
 
 - 📫 How to reach me *prashantahire488@gmail.com*
 - 👨‍💻 All of my projects are available at [portfolio](Portfolio)
