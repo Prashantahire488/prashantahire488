@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Prashant Ahire</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h1 align="center">About</h1>
+<h3 align="center">I'm a MERN stack web developer. I like to implement learning into projects with seamless user experience and clear, scalable, and efficient code.</h3>
 
 <!--
 - 🔭 I’m currently working on ...
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> 
+<p align="left" style> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
