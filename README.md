@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img style="background-color: white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img style="background-color: white;" src="https://miro.medium.com/max/800/1*Dno6e7KS5HcdGybg9A0onQ.png" alt="express" width="60" height="40"/>
   </a>
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src=https://miro.medium.com/max/800/1*Dno6e7KS5HcdGybg9A0onQ.png alt="nodejs" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
